@@ -39,3 +39,23 @@ Passionate about creating impactful software solutions and continuously improvin
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=PraveenS2022&theme=radical" alt="GitHub Streak" />
 </div>
+
+---
+
+### 📫 Let's Connect!  
+Feel free to reach out to me for collaborations, projects, or just a chat!
+
+<div align="center">
+  <a href="mailto:praveens.career6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="http://linkedin.com/in/praveen-s-aab0b7255">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/PraveenS2022">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/praveensindhe_?igsh=MWJzbjE0b3E2amxmZw%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
