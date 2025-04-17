@@ -51,7 +51,7 @@ Passionate about creating impactful software solutions and continuously improvin
 ---
 
 ### 🎮 Fun Fact  
-I’m currently learning **Full Stack Development**!  
+Leveling up my tech stack with Full Stack Development—because building both front and back just makes sense**!  
 
 ---
 
