@@ -42,6 +42,19 @@ Passionate about creating impactful software solutions and continuously improvin
 
 ---
 
+### 🎨 Random Dev Quote  
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+### 🎮 Fun Fact  
+I’m currently learning **Full Stack Development**!  
+
+---
+
 ### 📫 Let's Connect!  
 Feel free to reach out to me for collaborations, projects, or just a chat!
 
@@ -58,4 +71,16 @@ Feel free to reach out to me for collaborations, projects, or just a chat!
   <a href="https://www.instagram.com/praveensindhe_?igsh=MWJzbjE0b3E2amxmZw%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PraveenS2022&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  Made with ❤️ using <a href="https://github.com/PraveenS2022">GitHub</a> and <a href="https://shields.io/">Shields.io</a>
 </div>
