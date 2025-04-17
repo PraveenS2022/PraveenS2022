@@ -5,9 +5,7 @@
 ---
 
 ### 🚀 About Me  
-Currently an intern at **X-workZ**, where I’m learning **Java** to develop clean, efficient applications.  
-I enjoy solving problems, writing readable code, and creating reliable solutions.  
-Passionate about building impactful software and continuously improving my coding skills.  
+Currently an intern at **X-workZ**, where I’m learning **Java** to develop clean, efficient applications.I enjoy solving problems, writing readable code, and creating reliable solutions. Passionate about building impactful software and continuously improving my coding skills.  
 
 ---
 
