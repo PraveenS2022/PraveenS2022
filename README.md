@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen S</h1>
 <h3 align="center">Aspiring Java Developer | Tech Enthusiast</h3>
+> 🗓️ Updated on: <!--START_SECTION:daily-date-->2025-04-22<!--END_SECTION:daily-date-->
 
 ---
 
