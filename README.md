@@ -49,7 +49,7 @@ Currently an intern at X-workZ, where I’m learning Java to develop clean, effi
 ---
 
 ### 🎮 Fun Fact  
-Leveling up my tech stack with Full Stack Development—because building both front and back just makes sense!  
+Leveling up my tech stack with Full Stack Development—because building both front-end and back-end just makes sense!  
 
 ---
 
