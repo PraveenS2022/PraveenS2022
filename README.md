@@ -23,7 +23,7 @@ Currently an intern at X-workZ, where I’m learning Java to develop clean, effi
 
 ---
 
-### 📊 GitHub Stats  
+### 📈📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveenS2022&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
