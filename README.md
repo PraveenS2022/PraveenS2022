@@ -79,5 +79,5 @@ Feel free to reach out to me for collaborations, projects, or just a chat!
 ---
 
 <div align="center">
-  Made with ❤️ using <a href="https://github.com/PraveenS2022">GitHub</a> and <a href="https://shields.io/">Shields.io</a>
+  Made with ❤️ using <a href="https://github.com/PraveenS2022">GitHub</a>
 </div>
