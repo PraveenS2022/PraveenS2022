@@ -34,7 +34,7 @@ Currently an intern at X-workZ, where I’m learning Java to develop clean, effi
 
 ### 🔥 GitHub Streaks  
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PraveenS2022&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PraveenS2022&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
