@@ -9,7 +9,7 @@ Currently an intern at X-workZ, where I’m learning Java to develop clean, effi
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
