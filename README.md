@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 Currently an intern at X-workZ, where I’m learning Java to develop clean, efficient applications.I enjoy solving problems, writing readable code, and creating reliable solutions. Passionate about creating impactful software solutions and continuously improving my coding skills.
 
