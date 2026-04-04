@@ -23,9 +23,6 @@ Currently  an intern at X-workZ, where I’m learning Java to develop clean, eff
 
 ---
 
-### 📈📊 GitHub Stats  
-
-<div align="center">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveenS2022&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenS2022&hide_border=true&layout=compact&theme=radical" alt="Top Languages" width="48%" />
@@ -35,8 +32,10 @@ Currently  an intern at X-workZ, where I’m learning Java to develop clean, eff
 
 ### 🔥 GitHub Streaks  
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PraveenS2022&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=PraveenS2022&theme=radical" alt="GitHub Streak" />
 </div>
+
+---
 
 ### 🎨 Random Dev Quote  
 
